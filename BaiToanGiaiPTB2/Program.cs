@@ -14,7 +14,7 @@ namespace BaiToanGiaiPTB2
                 }
                 else
                 {
-                    Console.WriteLine("Phuong trinh co 1 nghiem: x = {0}", (-c / b));
+                    Console.WriteLine("Phuong trinh co 1 nghiem: x = {0}", (-c / 2*a));
                 }
                 return;
             }

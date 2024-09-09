@@ -8,7 +8,6 @@ namespace wedv1_giaiptb2
         protected void Page_Load(object sender, EventArgs e)
         {
         }
-
         protected void btn_tinh_Click(object sender, EventArgs e)
         {
             float a, b, c;

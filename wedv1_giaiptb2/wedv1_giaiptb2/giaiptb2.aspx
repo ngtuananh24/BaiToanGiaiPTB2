@@ -10,6 +10,7 @@
     <form id="form1" runat="server">
         <h2 style ="color:red">CHƯƠNG TRÌNH GIẢI PHƯƠNG TRÌNH BẬC 2</h2>
         <h3>ax2+bx+c=0</h3>
+        <h4 style ="color:deeppink">___Tác Giả: Nguyễn Tuấn Anh___</h4>
         <asp:Label ID="label" runat="server" Text="Nhập hệ số a:"></asp:Label>
         <asp:TextBox ID="tb_nhapa" runat="server"></asp:TextBox>
         <br />  <br />
