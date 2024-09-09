@@ -10,7 +10,8 @@ namespace testct
     {
         static void Main(string[] args)
         {
-            giaiptb2.GiaiPTB2(1, -3, 2);
+           string kq =  giaiptb2.GiaiPTB2(0, -49, -50);
+            Console.Write(kq);
             Console.ReadLine();
         }
     }
